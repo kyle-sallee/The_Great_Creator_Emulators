@@ -11,7 +11,7 @@ The file read.  The references resolve and read.  Then decide.
 
 # Reference resolving.
 "The Great Creator Emulators" while writing
-from https://www.biblegateway.com/ most of the bible passage references
+from (https://www.biblegateway.com/) most of the bible passage references
 were resolved and in different translations read and considered.
 
 # Decide
@@ -42,3 +42,17 @@ Sin is not the deciding factor.
 To liberty importance if accorded a Jesus  similar destination is attained.
 To payment importance if accorded a paydom world               is attained.
 If not yet comprehended if doubted by reading the connections are illuminated.
+
+# Cost
+To read "The Great Creator Emulators" the duration only is required.
+For comprehension to become the referenced bible passages also must be read.
+In the book the bible passages are not transcribed.
+A decent translation specturm online can be attained.
+
+# More from Kyle Sallee 
+(https://github.com/kyle-sallee)
+(https://kyle-sallee.github.io/ascript/)
+(https://kyle-sallee.github.io/A_DIVERT/)
+(https://kyle-sallee.github.io/The_Great_Creator_Emualtors/)
+(https://kyle-sallee.github.io/Freedom_Paydom/)
+(https://kyle-sallee.github.io/xlaunch/)
