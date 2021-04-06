@@ -49,10 +49,10 @@ For comprehension to become the referenced bible passages also must be read.
 In the book the bible passages are not transcribed.
 A decent translation specturm online can be attained.
 
-# More from Kyle Sallee 
-(https://github.com/kyle-sallee)
-(https://kyle-sallee.github.io/ascript/)
-(https://kyle-sallee.github.io/A_DIVERT/)
-(https://kyle-sallee.github.io/The_Great_Creator_Emualtors/)
-(https://kyle-sallee.github.io/Freedom_Paydom/)
-(https://kyle-sallee.github.io/xlaunch/)
+# More from Kyle Sallee
+* https://github.com/kyle-sallee
+* https://kyle-sallee.github.io/ascript/
+* https://kyle-sallee.github.io/A_DIVERT/
+* https://kyle-sallee.github.io/The_Great_Creator_Emulators/
+* https://kyle-sallee.github.io/Freedom_Paydom/
+* https://kyle-sallee.github.io/xlaunch/
